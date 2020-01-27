@@ -1,0 +1,12 @@
+#变量的命名规则
+#变量名必须是一个有效是的标识符
+#变量名不能用python中的保留字
+#慎用小写字母i和大写字母O
+#应选择有意义的单词作为变量名
+nickname=2078
+print(type(nickname))
+nickname="优势是否设计费"
+print(type(nickname))
+no=number=2045
+print(id(no))
+print(id(number))
