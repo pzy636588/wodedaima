@@ -9,7 +9,7 @@ for i in range(4):
         if j==4:
             print(verse[i][j])
         else:
-            print(verse[i][j],end="")
+            print(verse[i][j],end='')
 
 
 verse.reverse()
@@ -19,4 +19,4 @@ for i in range(5):
         if j==3:
             print(verse[i][j])
         else:
-            print(verse[i][j],end="")
+            print(verse[i][j],end='')

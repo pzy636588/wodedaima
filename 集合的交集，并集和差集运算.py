@@ -1,0 +1,7 @@
+python=set(['天下风云出我被','城野大疆科技'])
+c=set(['好好谁看见伤口附近','更符合复活'])
+print('选择python的学生:',python)
+print('选择c语言的学生:',c)
+print('交集运算：',python & c)
+print('并集运算：',python | c)
+print('差集运算：',python - c)
