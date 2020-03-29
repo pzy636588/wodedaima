@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+}
+.circle1,
+.circle2,
+.circle3,
+.circle4,
+.circle5{
+    position: abosolute;
+    width: 100px;
+    height:100px;
+    border: 10px solid black;
+    border-radius: 50%;
+}
+.circle1{
+    border-color: red;
+    left: 0;
+    top: 0;
+}
+.circle2{
+    border-color: green;
+    left: 130px;
+    top: 0;
+}
+.circle3{
+    border-color: blue;
+    left: 260px;
+    top: 0;
+}
+.circle4{
+    border-color: yellow;
+    left: 65px;
+    top:70px ;
+}
+.circle5{
+    border-color: purple;
+    left:195px ;
+    top: 70px;
+
+}
